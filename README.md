@@ -56,7 +56,7 @@ GO to our accuracy image on this project file.
 
 
 OUR Streamlit FRONTEND SITE:-
-https://glucowiseraa.streamlit.app/
+https://glucowiseraa-diabetes-predictor.streamlit.app/
 
 
 
@@ -66,8 +66,8 @@ https://glucowiseraa.streamlit.app/
 
 
 DEVELOPED BY:-
-1. ROHAN RAJ
-2. ADARSH KUMAR TIWARI
+1. ADARSH KUMAR TIWARI
+2. ROHAN RAJ
 3. AKASH KUMAR
 4. SHASHI RANJAN
 
