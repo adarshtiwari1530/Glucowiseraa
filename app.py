@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Mar 30 22:08:00 2024
+
+@author: aman0
+"""
 
 import numpy as np
 import pickle
@@ -100,3 +106,7 @@ if selected == 'Diabetes Prediction':
             diab_diagnosis = 'The person is not diabetic'
 
     st.success(diab_diagnosis)
+
+    
+    
+    
